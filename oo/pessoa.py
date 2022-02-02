@@ -1,0 +1,3 @@
+class ExemploPessoa:
+    pass
+
